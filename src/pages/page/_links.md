@@ -18,7 +18,6 @@
             - [可选] `description`: 链接简介
             - [可选] `avatarUrl` 链接的头像 URL
         -->
-        <Friend url="https://www.tcdw.net" name="吐槽大王部落格" description="本 Astro 博客主题的作者" avatarUrl="https://secure.gravatar.com/avatar/70ae2023afad30dae905344325cece8f?s=140" />
         <Friend url="https://example.com" name="测试链接" description="这是一个测试链接" />
         <Friend url="https://example.com" name="测试链接" description="这是一个测试链接" />
     </FriendList>

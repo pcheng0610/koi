@@ -1,4 +1,4 @@
-Koi (こい, 恋) 是由 [tcdw](https://www.tcdw.net) 为他不存在的女儿制作的 [Astro](https://astro.build/) 静态博客模板。
+ 特别鸣谢[tcdw](https://www.tcdw.net) 制作的并开源的 [Astro](https://astro.build/) 静态博客模板，为本飞舞提供的技术基础。
 
 ## 特性
 
